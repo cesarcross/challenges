@@ -24,8 +24,7 @@ const Battle = () => {
         <ul>
           <h3>AMEAÇA</h3>
           <li>
-            Level of danger: {dangerLevel} --- Name of the monster:{' '}
-            {monsterName}
+            Danger Level: {dangerLevel} --- Name: {monsterName}
           </li>
         </ul>
         <ul>
