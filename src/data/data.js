@@ -1,19 +1,19 @@
 export const threats = [
   {
     dangerLevel: 'Gold',
-    monsterName: 'Azure',
+    monsterName: 'Eldrich Horror',
   },
   {
     dangerLevel: 'Silver',
-    monsterName: 'Brown',
+    monsterName: 'IT the Clown',
   },
   {
     dangerLevel: 'Copper',
-    monsterName: 'Colour',
+    monsterName: 'Corrupted Human',
   },
   {
     dangerLevel: 'Wood',
-    monsterName: 'Disc',
+    monsterName: 'Giant Octopus',
   },
 ];
 
@@ -25,7 +25,7 @@ export const heroes = [
   },
   {
     rank: 'A',
-    name: 'Aquaman',
+    name: 'Super Metroid',
   },
   {
     rank: 'B',
